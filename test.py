@@ -12,3 +12,5 @@ all_rewards = [[1.0, 1.0], [1.0, 1.0, 1.0]]
 # print(np.mean(all_rewards))  # 报错，不能变长
 print(get_avg_step(all_rewards))
 print(get_avg_loss(all_rewards))
+
+print(np.newaxis)  # None

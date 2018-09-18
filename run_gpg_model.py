@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from policy_gradients_model import *
+from gradient_policy_gradients_model import *
 from data.cnews_loader import *
 
 import os
